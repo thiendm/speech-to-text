@@ -1,3 +1,4 @@
+#!env python
 import speech_recognition as sr
 
 
